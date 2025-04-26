@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="150" viewBox="0 0 300 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="150" rx="10" fill="#F8F9FC" fill-opacity="0.3"/>
+  
+  <!-- Books -->
+  <rect x="20" y="40" width="60" height="70" rx="3" fill="#7E84A3" fill-opacity="0.2"/>
+  <rect x="25" y="45" width="50" height="60" rx="2" fill="#4E73DF" fill-opacity="0.6"/>
+  <rect x="30" y="50" width="40" height="5" rx="1" fill="white"/>
+  <rect x="30" y="60" width="40" height="2" rx="1" fill="white"/>
+  <rect x="30" y="65" width="30" height="2" rx="1" fill="white"/>
+  <rect x="30" y="70" width="35" height="2" rx="1" fill="white"/>
+  
+  <rect x="40" y="30" width="60" height="70" rx="3" fill="#7E84A3" fill-opacity="0.2"/>
+  <rect x="45" y="35" width="50" height="60" rx="2" fill="#1CC88A" fill-opacity="0.6"/>
+  <rect x="50" y="40" width="40" height="5" rx="1" fill="white"/>
+  <rect x="50" y="50" width="40" height="2" rx="1" fill="white"/>
+  <rect x="50" y="55" width="30" height="2" rx="1" fill="white"/>
+  <rect x="50" y="60" width="35" height="2" rx="1" fill="white"/>
+  
+  <rect x="60" y="20" width="60" height="70" rx="3" fill="#7E84A3" fill-opacity="0.2"/>
+  <rect x="65" y="25" width="50" height="60" rx="2" fill="#F6C23E" fill-opacity="0.6"/>
+  <rect x="70" y="30" width="40" height="5" rx="1" fill="white"/>
+  <rect x="70" y="40" width="40" height="2" rx="1" fill="white"/>
+  <rect x="70" y="45" width="30" height="2" rx="1" fill="white"/>
+  <rect x="70" y="50" width="35" height="2" rx="1" fill="white"/>
+  
+  <!-- Person -->
+  <circle cx="200" cy="60" r="20" fill="#4E73DF"/>
+  <rect x="190" y="85" width="20" height="30" rx="6" fill="#4E73DF"/>
+  <rect x="180" y="90" width="10" height="20" rx="3" fill="#4E73DF"/>
+  <rect x="210" y="90" width="10" height="20" rx="3" fill="#4E73DF"/>
+  
+  <!-- Progress Circles -->
+  <circle cx="160" cy="40" r="15" fill="#F8F9FC" stroke="#4E73DF" stroke-width="5"/>
+  <path d="M160 25 A15 15 0 0 1 175 40" stroke="#4E73DF" stroke-width="5" stroke-linecap="round"/>
+  
+  <circle cx="240" cy="40" r="15" fill="#F8F9FC" stroke="#1CC88A" stroke-width="5"/>
+  <path d="M240 25 A15 15 0 1 1 240 55" stroke="#1CC88A" stroke-width="5" stroke-linecap="round"/>
+  
+  <!-- Progress Bar -->
+  <rect x="140" y="120" width="120" height="10" rx="5" fill="#F8F9FC"/>
+  <rect x="140" y="120" width="80" height="10" rx="5" fill="#4E73DF"/>
+  
+  <!-- Sparkles -->
+  <path d="M260 60 L265 65 L260 70 L255 65 Z" fill="#F6C23E"/>
+  <path d="M130 50 L135 55 L130 60 L125 55 Z" fill="#F6C23E"/>
+  <path d="M230 90 L235 95 L230 100 L225 95 Z" fill="#F6C23E"/>
+</svg> 
